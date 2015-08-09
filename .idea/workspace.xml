@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be82d98f-eb89-401b-8918-a5cd8accfa54" name="Default" comment="" />
+    <ignored path="wydupcaj.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wydupcaj" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.47270307" vertical-offset="503" max-vertical-offset="1254">
+              <caret line="39" column="120" selection-start-line="39" selection-start-column="120" selection-end-line="39" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/resources/views/main.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/bootstrap/app.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/lumen-framework/src/Application.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydupcaj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be82d98f-eb89-401b-8918-a5cd8accfa54" name="Default" comment="" />
+      <created>1439119263273</created>
+      <option name="number" value="Default" />
+      <updated>1439119263273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3515313" vertical-offset="0" max-vertical-offset="968">
+          <caret line="12" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14647137" vertical-offset="0" max-vertical-offset="751">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="751">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14647137" vertical-offset="0" max-vertical-offset="751">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <marker date="1439124072000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1439124072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439124072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29294273" vertical-offset="0" max-vertical-offset="751">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1439124557000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439124557000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5565912" vertical-offset="0" max-vertical-offset="751">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <marker date="1439120009000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1439120009000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23834887" vertical-offset="283" max-vertical-offset="2288">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439143148000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/lumen-framework/src/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50865513" vertical-offset="17856" max-vertical-offset="38434">
+          <caret line="856" column="63" selection-start-line="856" selection-start-column="63" selection-end-line="856" selection-end-column="63" />
+          <folding>
+            <marker date="1439145263000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Indicates if the class aliases have been registered. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The base path of the application installation. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The storage path of the application installation. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The configuration path of the application installation. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The resource path of the application installation. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" All of the loaded configuration files. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" All of the routes waiting to be registered. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" All of the named routes and URI pairs. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The shared attributes for the current route group. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" All of the global middleware for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" All of the route specific middleware short-hands. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The current route being dispatched. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The loaded service providers. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The service binding methods that have been executed. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The FastRoute dispatcher. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The application namespace. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Create a new Lumen application instance. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Bootstrap the application container. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the version number of the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get or check the current application environment. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Determine if the application is currently down for maintenance. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register all of the configured providers. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the path to the cached &quot;compiled.php&quot; file. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the path to the cached services.json file. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a service provider with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a deferred provider and service. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Boot the application's service providers. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a new boot listener. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a new &quot;booted&quot; listener. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Set the error handling for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Determine if the error type is fatal. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Send the exception to the handler and return the response. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Handle an uncaught exception instance. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Throw an HttpException with the given data. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Resolve the given type from the container. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the Monolog handler for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the path to the application's language files. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register container bindings for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Configure and load the given component and provider. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Load a configuration file into the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the path to the given configuration file. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register the facades for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Load the Eloquent library for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a set of routes with a set of shared attributes. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a route with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a route with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a route with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a route with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a route with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register a route with the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Add a route to the collection. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Parse the action into an array format. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Merge the group attributes into the action. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Merge the namespace group into the action. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Merge the middleware group into the action. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Add new middleware to the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Define the route middleware for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" {@inheritdoc} ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Run the application and send the response. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Call the terminable middleware. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Dispatch the incoming request. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Create a FastRoute dispatcher instance for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Set the FastRoute dispatcher instance. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Handle the response from the FastRoute dispatcher. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Handle a route found by the dispatcher. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Call the Closure on the array based route. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Call a controller based route. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Send the request through a Lumen controller. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Send the request through a set of controller middleware. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Call the callable for a controller action with the given parameters. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Gather the full class names for the middleware short-cut string. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Send the request through the pipeline with the given callback. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Prepare the response for sending. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the current HTTP request method. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the current HTTP path info. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the application namespace. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the path to the application &quot;app&quot; directory. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the base path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the storage path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Set a custom storage path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the database path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Set a custom configuration path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the resource path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Set a custom resource path for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Determine if the application is running in the console. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Prepare the application to execute a console command. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the raw routes for the application. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Set the cached routes. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Register the core container aliases. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" The available container bindings and their respective load methods. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder=" Get the HTML from the Lumen welcome screen. ..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1439145263000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29294273" vertical-offset="0" max-vertical-offset="968">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1171771" vertical-offset="0" max-vertical-offset="751">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <marker date="1439148193000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73235685" vertical-offset="0" max-vertical-offset="751">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1439150352000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439150352000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439150352000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439150352000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439150352000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47270307" vertical-offset="503" max-vertical-offset="1254">
+          <caret line="39" column="120" selection-start-line="39" selection-start-column="120" selection-end-line="39" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
