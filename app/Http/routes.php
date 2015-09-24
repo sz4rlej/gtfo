@@ -14,3 +14,11 @@
 $app->get('/',[
     'as' => 'home', 'uses' => 'HomeController@home'
 ]);
+
+$app->get('/{hash}',[
+    'as' => 'home', 'uses' => 'HomeController@showEntry'
+]);
+
+$app->post('/',[
+    'as' => 'home', 'uses' => 'HomeController@saveNewQuote'
+]);

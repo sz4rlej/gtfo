@@ -7,6 +7,9 @@ body {
     text-transform: uppercase;
     font-size: 20pt;
 }
+input {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 .quota {
     font-size: 40pt;
 }
@@ -25,3 +28,13 @@ body {
 }
 .tooltip.bottom > .tooltip-arrow {border-bottom-color: #5A1116;}
 .tooltip > .tooltip-inner {background-color: #5A1116;}
+.modal-header, .modal-footer {
+    border: 0px;
+    text-align: center;
+}
+.modal-content {
+    background: url('../images/backgrounds/1.jpg');
+}
+.form-group {
+    font-size: 0.4em;
+}
