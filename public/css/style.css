@@ -19,12 +19,33 @@ input {
 }
 [class*="brandico-"]:before {
     font-family: 'brandico', sans-serif;
-    opacity: 0.2;
+
     margin: 5px;
     font-size: 20pt;
 }
 .glyphicon {
-    opacity: 0.2;
+    opacity: .2;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+
+    cursor: pointer;
+}
+.glyphicon:hover {
+    opacity: 1;
+}
+.social {
+    opacity: .2;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+
+    cursor: pointer;
+}
+.social:hover {
+    opacity: 1
 }
 .tooltip.bottom > .tooltip-arrow {border-bottom-color: #5A1116;}
 .tooltip > .tooltip-inner {background-color: #5A1116;}
@@ -37,4 +58,8 @@ input {
 }
 .form-group {
     font-size: 0.4em;
+}
+#previusQuote, #nextQuote {
+    margin-top: 120px;
+    display: block;
 }

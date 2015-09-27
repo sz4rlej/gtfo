@@ -81,7 +81,6 @@ $app->singleton(
 // $app->register(App\Providers\EventServiceProvider::class);
 $app->register(Vinkla\Hashids\HashidsServiceProvider::class);
 
-
 /*
 |--------------------------------------------------------------------------
 | Load The Application Routes

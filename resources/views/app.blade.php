@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
     <link href='http://fonts.googleapis.com/css?family=Kaushan+Script&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="http://local.dev/wydupcaj/public/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -19,25 +19,33 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6 col-md-offset-3 text-center">
+        <div class="col-md-8 col-md-offset-2 text-center">
             <div class="row">
-                <div class="col-md-5"><hr /></div>
-                <div class="col-md-2 quota">"</div>
-                <div class="col-md-5"><hr /></div>
-            </div>
-            @yield('content')
-            <div class="row" style="margin-top: 30px;">
-                <div class="col-md-5"><hr /></div>
-                <div class="col-md-2 quota">"</div>
-                <div class="col-md-5"><hr /></div>
+                <div class="col-md-1"><span class="glyphicon glyphicon-chevron-left changeQuote" data-direction="previous" id="previusQuote"></span></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <div class="col-md-5"><hr /></div>
+                        <div class="col-md-2 quota">"</div>
+                        <div class="col-md-5"><hr /></div>
+                    </div>
+                    <div class="row" id="quota">
+                        <div class="quota-text" id="line_1">{{$line_1}}</div>
+                        <div class="quota-text" id="line_2">{{$line_2}}</div>
+                        <div class="quota-author" id="author">• {{$author}} •</div>
+                        <div class="quota-hash" id="hash" data-hash="{{$hash}}"></div>
+                    </div>
+                    <div class="row" style="margin-top: 30px;">
+                        <div class="col-md-5"><hr /></div>
+                        <div class="col-md-2 quota">"</div>
+                        <div class="col-md-5"><hr /></div>
+                    </div>
+                </div>
+                <div class="col-md-1"><span class="glyphicon glyphicon-chevron-right changeQuote" data-direction="next" id="nextQuote"></span></div>
             </div>
         </div>
     </div>
     <div class="row" style="margin-top: 100px;">
         <div class="col-md-12 text-center">
-            <span class="brandico-facebook-rect" data-toggle="tooltip" data-placement="bottom" title="Wrzuć na fejsa!"></span>
-            <span class="brandico-twitter-bird" data-toggle="tooltip" data-placement="bottom" title="Twitnij to!"></span>
-            <span class="brandico-googleplus-rect" data-toggle="tooltip" data-placement="bottom" title="Udostępnij na G+!"></span>
         </div>
     </div>
 </div>
@@ -82,7 +90,37 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script>
     $(function () {
-        $('[data-toggle="tooltip"]').tooltip()
+        $('[data-toggle="tooltip"]').tooltip();
+
+        $('.changeQuote').click(function() {
+
+            var direction = $(this).data('direction');
+
+            $.ajax({
+                url: '/json/' + direction + '/' + $('#hash').data('hash'),
+                data: {
+                    format: 'json'
+                },
+                error: function() {
+                    console.log('error :/');
+                },
+                success: function(data) {
+                    console.log(data);
+                    if(data.status == 'ok')
+                    {
+                        $('#quota').fadeOut(function() {
+                            $('#line_1').text(data.data.line_1);
+                            $('#line_2').text(data.data.line_2);
+                            $('#author').text(data.data.author);
+                            $('#hash').data('hash', data.data.hash);
+                        });
+                    }
+                    $('#quota').fadeIn();
+                },
+                type: 'GET'
+            });
+        });
+
     })
 </script>
 </body>

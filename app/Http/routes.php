@@ -19,6 +19,18 @@ $app->get('/{hash}',[
     'as' => 'home', 'uses' => 'HomeController@showEntry'
 ]);
 
+$app->get('/json/{hash}',[
+    'as' => 'home', 'uses' => 'HomeController@getQuote'
+]);
+
+$app->get('/json/next/{hash}',[
+    'as' => 'home', 'uses' => 'HomeController@getNextQuote'
+]);
+
+$app->get('/json/previous/{hash}',[
+    'as' => 'home', 'uses' => 'HomeController@getPreviousQuote'
+]);
+
 $app->post('/',[
     'as' => 'home', 'uses' => 'HomeController@saveNewQuote'
 ]);
