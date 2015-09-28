@@ -27,6 +27,10 @@ $app->get('/json/next/{hash}',[
     'as' => 'home', 'uses' => 'HomeController@getNextQuote'
 ]);
 
+$app->get('/vote/{quoteHash}/{vote}',[
+    'as' => 'home', 'uses' => 'HomeController@saveVote'
+]);
+
 $app->get('/json/previous/{hash}',[
     'as' => 'home', 'uses' => 'HomeController@getPreviousQuote'
 ]);

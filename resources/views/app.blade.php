@@ -39,6 +39,17 @@
                         <div class="col-md-2 quota">"</div>
                         <div class="col-md-5"><hr /></div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-5 text-right">
+                            <span class="glyphicon glyphicon-thumbs-up vote" data-vote="1"></span>
+                        </div>
+                        <div class="col-md-2">
+                            <span class="votes">{{$votes}}</span>
+                        </div>
+                        <div class="col-md-5 text-left">
+                            <span class="glyphicon glyphicon-thumbs-down vote" data-vote="0""></span>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-1"><span class="glyphicon glyphicon-chevron-right changeQuote" data-direction="next" id="nextQuote"></span></div>
             </div>
@@ -105,23 +116,68 @@
                     console.log('error :/');
                 },
                 success: function(data) {
-                    console.log(data);
+
                     if(data.status == 'ok')
                     {
-                        $('#quota').fadeOut(function() {
+                        $('#quota, .votes').fadeOut(function() {
                             $('#line_1').text(data.data.line_1);
                             $('#line_2').text(data.data.line_2);
                             $('#author').text(data.data.author);
                             $('#hash').data('hash', data.data.hash);
+                            $('.votes').text(data.data.votes);
                         });
                     }
-                    $('#quota').fadeIn();
+                    $('#quota, .votes').fadeIn();
+                },
+                type: 'GET'
+            });
+        });
+
+        $('.vote').click(function() {
+
+            var vote = $(this).data('vote');
+
+            $.ajax({
+                url: '/vote/' + $('#hash').data('hash')  + '/' + vote,
+                data: {
+                    format: 'json'
+                },
+                error: function() {
+
+                },
+                success: function(data) {
+
+                    if(data.status == 'ok')
+                    {
+                        $('.votes').fadeOut(function() {
+                            $('.votes').text(data.data.votes);
+                        });
+                    }
+                    $('.votes').fadeIn();
+
+                    if(data.status == 'error') {
+
+                        $('.votes')
+                                .animate({ marginLeft: "+=4" }, 100 )
+                                .animate({ marginLeft: "-=8" }, 100 )
+                                .animate({ marginLeft: "+=4" }, 100 );
+                    }
                 },
                 type: 'GET'
             });
         });
 
     })
+</script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-68207115-1', 'auto');
+    ga('send', 'pageview');
+
 </script>
 </body>
 </html>
