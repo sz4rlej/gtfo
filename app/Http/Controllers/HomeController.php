@@ -163,7 +163,7 @@ class HomeController extends BaseController
         // Hash user details - week but exists
         //$hashids = new Hashids('q');
         //$hash = $hashids->encode(preg_replace('/[^0-9]+/', '', $_SERVER['HTTP_ACCEPT'] . $_SERVER['REMOTE_ADDR']));
-        $hash = $_SERVER['HTTP_ACCEPT'] . $_SERVER['REMOTE_ADDR'];
+        $hash = $_SERVER['HTTP_USER_AGENT'] . $_SERVER['REMOTE_ADDR'];
 
         // Check for previous vote
         $today = new \DateTime();
