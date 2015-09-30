@@ -68,3 +68,13 @@ input {
     display: block;
     padding: 4px;
 }
+.link {
+    background: rgba(127,33,33,0.4);
+    border: 0px;
+    font-size: 0.5em;
+    padding: 4px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    position: relative;
+    color: rgba(54,8,10, 0.6);
+}

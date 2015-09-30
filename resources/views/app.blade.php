@@ -40,6 +40,11 @@
                         <div class="col-md-5"><hr /></div>
                     </div>
                     <div class="row">
+                        <div class="col-md-12">
+                            <input type="text" value="http://wydupcaj.pl/{{$hash}}" class="link" onClick="this.select();"/>
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-md-5 text-right">
                             <span class="glyphicon glyphicon-thumbs-up vote" data-vote="1"></span>
                         </div>
@@ -63,7 +68,7 @@
 <div class="modal fade" id="addNew">
     <div class="modal-dialog">
         <div class="modal-content">
-            <form class="form-horizontal" method="post">
+            <form class="form-horizontal" method="post" action="/">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                 <h4 class="modal-title">Dodaj nowego ignora!</h4>
