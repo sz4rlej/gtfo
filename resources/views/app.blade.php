@@ -40,11 +40,6 @@
                         <div class="col-md-5"><hr /></div>
                     </div>
                     <div class="row">
-                        <div class="col-md-12">
-                            <input type="text" value="http://wydupcaj.pl/{{$hash}}" class="link" onClick="this.select();"/>
-                        </div>
-                    </div>
-                    <div class="row">
                         <div class="col-md-5 text-right">
                             <span class="glyphicon glyphicon-thumbs-up vote" data-vote="1"></span>
                         </div>
@@ -53,6 +48,11 @@
                         </div>
                         <div class="col-md-5 text-left">
                             <span class="glyphicon glyphicon-thumbs-down vote" data-vote="0""></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <input type="text" value="http://wydupcaj.pl/{{$hash}}" class="link" onClick="this.select();"/>
                         </div>
                     </div>
                 </div>
@@ -130,6 +130,7 @@
                             $('#author').text(data.data.author);
                             $('#hash').data('hash', data.data.hash);
                             $('.votes').text(data.data.votes);
+                            $('.link').val('http://wydupcaj.pl/' + data.data.hash);
                         });
                     }
                     $('#quota, .votes').fadeIn();
